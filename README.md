@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Dual degree student(BTech and Master of Science in Computer Science and Engineering by Research) at IIIT Hyderabad.Where I am working with Prof C.V Jawahar in the field of computer vision in Audio Visual vertical.
 
 <!--
 **AparnaAgrawal02/AparnaAgrawal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
